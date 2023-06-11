@@ -16,6 +16,7 @@ def count_odd_even(n):
 
             print(f"Evens: {evens}, Odds: {odds}")
 
-            test_number = 14578              # Odds: 1,5,7 Evens: 4,0
+            test_number = 14570  # Odds: 1,5,7 Evens: 4,0
             count_odd_even(test_number)
+
 

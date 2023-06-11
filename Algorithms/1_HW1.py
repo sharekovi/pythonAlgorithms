@@ -15,3 +15,4 @@ def sumn(n):
     test_result = sumn(test_data)
     print(test_result)
 
+
